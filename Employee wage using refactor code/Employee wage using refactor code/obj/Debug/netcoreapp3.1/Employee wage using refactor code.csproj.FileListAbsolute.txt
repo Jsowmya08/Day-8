@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\bin\Debug\netcoreapp3.1\Employee wage using refactor code.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\bin\Debug\netcoreapp3.1\Employee wage using refactor code.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\bin\Debug\netcoreapp3.1\Employee wage using refactor code.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\bin\Debug\netcoreapp3.1\Employee wage using refactor code.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\bin\Debug\netcoreapp3.1\Employee wage using refactor code.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\bin\Debug\netcoreapp3.1\Employee wage using refactor code.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee wage using refactor code\Employee wage using refactor code\obj\Debug\netcoreapp3.1\Employee wage using refactor code.genruntimeconfig.cache

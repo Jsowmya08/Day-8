@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\bin\Debug\netcoreapp3.1\distance between coordinates.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\bin\Debug\netcoreapp3.1\distance between coordinates.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\bin\Debug\netcoreapp3.1\distance between coordinates.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\bin\Debug\netcoreapp3.1\distance between coordinates.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\bin\Debug\netcoreapp3.1\distance between coordinates.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\bin\Debug\netcoreapp3.1\distance between coordinates.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\distance between coordinates\distance between coordinates\obj\Debug\netcoreapp3.1\distance between coordinates.genruntimeconfig.cache

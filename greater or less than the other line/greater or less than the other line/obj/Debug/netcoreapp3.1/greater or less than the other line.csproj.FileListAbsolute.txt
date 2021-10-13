@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\bin\Debug\netcoreapp3.1\greater or less than the other line.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\bin\Debug\netcoreapp3.1\greater or less than the other line.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\bin\Debug\netcoreapp3.1\greater or less than the other line.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\bin\Debug\netcoreapp3.1\greater or less than the other line.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\bin\Debug\netcoreapp3.1\greater or less than the other line.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\bin\Debug\netcoreapp3.1\greater or less than the other line.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\greater or less than the other line\greater or less than the other line\obj\Debug\netcoreapp3.1\greater or less than the other line.genruntimeconfig.cache

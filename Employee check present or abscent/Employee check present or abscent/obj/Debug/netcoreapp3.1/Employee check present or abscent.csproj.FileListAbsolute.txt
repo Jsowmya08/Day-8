@@ -1,0 +1,14 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\bin\Debug\netcoreapp3.1\Employee check present or abscent.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\bin\Debug\netcoreapp3.1\Employee check present or abscent.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\bin\Debug\netcoreapp3.1\Employee check present or abscent.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\bin\Debug\netcoreapp3.1\Employee check present or abscent.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\bin\Debug\netcoreapp3.1\Employee check present or abscent.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\bin\Debug\netcoreapp3.1\Employee check present or abscent.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Employee check present or abscent\Employee check present or abscent\obj\Debug\netcoreapp3.1\Employee check present or abscent.genruntimeconfig.cache

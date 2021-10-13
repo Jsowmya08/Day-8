@@ -1,0 +1,13 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\bin\Debug\netcoreapp3.1\Two equal lines.exe
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\bin\Debug\netcoreapp3.1\Two equal lines.deps.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\bin\Debug\netcoreapp3.1\Two equal lines.runtimeconfig.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\bin\Debug\netcoreapp3.1\Two equal lines.runtimeconfig.dev.json
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\bin\Debug\netcoreapp3.1\Two equal lines.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\bin\Debug\netcoreapp3.1\Two equal lines.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\obj\Debug\netcoreapp3.1\Two equal lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\obj\Debug\netcoreapp3.1\Two equal lines.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\obj\Debug\netcoreapp3.1\Two equal lines.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\obj\Debug\netcoreapp3.1\Two equal lines.csproj.CoreCompileInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\obj\Debug\netcoreapp3.1\Two equal lines.dll
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\obj\Debug\netcoreapp3.1\Two equal lines.pdb
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\Day 8\Two equal lines\Two equal lines\obj\Debug\netcoreapp3.1\Two equal lines.genruntimeconfig.cache
